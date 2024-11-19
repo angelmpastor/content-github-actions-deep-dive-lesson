@@ -9,4 +9,4 @@ In AWS, need to:
 * Create a cli user with access keys, with permissions to:
 ** S3
 ** Lambda
-* Update the actions secrets to store the access keys.
+* Update the actions secrets to store the access keys and AWS account ID.
