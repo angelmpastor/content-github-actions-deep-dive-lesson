@@ -10,3 +10,5 @@ In AWS, need to:
 ** S3
 ** Lambda
 * Update the actions secrets to store the access keys and AWS account ID.
+
+For the documentation, go to the repository settings, pages, select the new branch created by the job called "gh-pages", folder is root and click on Save. It will take a few minutes and eventually there will be a banner with the link of the site
